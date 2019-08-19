@@ -2,21 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ff37dce6-e1de-406e-85d0-cb59ad9af285" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/crab.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/hali.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/lobster.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/mahi.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/mussels.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/oysters.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/prawns.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/salmon.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/scallops.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Inventory.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/NotFound.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Order.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Router.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/StorePicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/fonts/blanch_caps_inline-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/fonts/blanch_caps_inline-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/fonts/blanch_caps_inline-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/fonts/blanch_caps_inline-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/fonts/haymaker-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/fonts/haymaker-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/fonts/haymaker-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/fonts/haymaker-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/images/anchor.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
@@ -34,6 +40,16 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Hal Vong &lt;halvong@yahoo.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1PXY3eYBrJX7WW7SJXQP5Y6fdcw" />
@@ -49,7 +65,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="vcs.Subversion" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -99,8 +115,31 @@
       <workItem from="1566102513408" duration="5674000" />
       <workItem from="1566113536825" duration="129000" />
       <workItem from="1566114751155" duration="17000" />
-      <workItem from="1566162563687" duration="370000" />
+      <workItem from="1566162563687" duration="6936000" />
+      <workItem from="1566191481273" duration="3219000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial WesBos ReactJS">
+      <created>1566162986711</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1566162986711</updated>
+    </task>
+    <task id="LOCAL-00002" summary="additional pages">
+      <created>1566163129356</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1566163129356</updated>
+    </task>
+    <task id="LOCAL-00003" summary="chp7, passing dynamic data with props">
+      <created>1566172865628</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1566172865628</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,5 +157,13 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="Initial WesBos ReactJS" />
+    <MESSAGE value="additional pages" />
+    <MESSAGE value="chp7, passing dynamic data with props" />
+    <option name="LAST_COMMIT_MESSAGE" value="chp7, passing dynamic data with props" />
   </component>
 </project>
